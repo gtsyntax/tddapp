@@ -1,10 +1,10 @@
-##Django Test Driven Development
+# Django Test Driven Development
 
 This project is a test driven development
 with Django which I intend to update as time
 goes on.
 
-#Requirements
+## Requirements
 * certifi==2017.7.27.1
 * chardet==3.0.4
 * coverage==4.4.1
