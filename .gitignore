@@ -37,11 +37,11 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-htmlcov/
+# htmlcov/
 .tox/
-.coverage
+.coveragerc.*
 .coverage.*
-.cache
+.cache.*
 nosetests.xml
 coverage.xml
 *.cover
@@ -99,5 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
 
 .gitignore
